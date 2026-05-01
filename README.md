@@ -14,8 +14,6 @@ This will simplify the development and efforts and unify alll in one node. Will 
 
 <img width="1650" height="515" alt="desk1" src="https://github.com/user-attachments/assets/7cf485b5-a9a0-44f7-822b-50ae4c66b0d5" />
 
-#
-
 <a href="https://www.youtube.com/watch?v=GyDteyO-0Bk" target="_blank">Watch the Preview Image Monitor v1.1 Interface Walkthrough</a>
 
 # 
