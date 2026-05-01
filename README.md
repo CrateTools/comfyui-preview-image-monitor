@@ -24,7 +24,7 @@ QUICKSTART:
 - We also encourage you to read the "welcome to PreviewImageMonitorPro for ComfyUI.txt"
   user guide in the "3. node tutorial" folder before starting using the node for the first time.
 
- Note on OS: This custom node has been tested on Windows 10 environment only ⊞
+ Note on OS: This custom node has been tested on Windows 10 environment only
 
 # 
 Support: A small 1 Dollar donation helps! https://buymeacoffee.com/cratetools
