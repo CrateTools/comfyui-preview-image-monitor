@@ -1,6 +1,4 @@
-<img width="1343" height="503" alt="longBanner" src="https://github.com/user-attachments/assets/f05dc2fb-24fe-452b-9ded-1e8d8818a317" />
-
-# <h1 align="center">Preview Image Monitor 🖥️🖥️ Multimonitor Fullscreen!</h1>
+# <h1 align="center">Preview Image Monitor - Multimonitor Fullscreen!</h1>
 
 The first full-screen and multi-monitor solution for ComfyUI. It enables real-time image preview on any monitor connected to your system.
 It displays your generated images in fullscreen with professional grade viewing controls including adjustable fit modes
@@ -24,25 +22,25 @@ This will simplify the development and efforts and unify alll in one node. Will 
 <a href="https://www.youtube.com/watch?v=GyDteyO-0Bk" target="_blank">Watch the Preview Image Monitor v1.1 Interface Walkthrough</a>
 
 # 
-📚 QUICKSTART📚:
+QUICKSTART:
 
 - Download the latest version and extract the file.
 - Please open the "1. basic install instructions.txt" file.
 - We also encourage you to read the "welcome to PreviewImageMonitorPro for ComfyUI.txt"
   user guide in the "3. node tutorial" folder before starting using the node for the first time.
 
- ⊞ Note on OS: This custom node has been tested on Windows 10 environment only ⊞
+ Note on OS: This custom node has been tested on Windows 10 environment only ⊞
 
 # 
-☕︎ Support: A small 1 Dollar donation helps! ☕︎ https://buymeacoffee.com/cratetools
+Support: A small 1 Dollar donation helps! https://buymeacoffee.com/cratetools
 
-⭐ Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it
+Can’t or don’t feel like donating? No worries at all! Just giving the repo a star helps others discover it
 
-🌍 Share this tool with anyone you think would enjoy it! 🌍
+Share this tool with anyone you think would enjoy it!
 
-🪲 Report any bugs you come across
+Report any bugs you come across
 
-📄 Contribute improvements
+Contribute improvements
 
 # 
 Future improvements and Ideas for the node:
@@ -54,14 +52,14 @@ Future improvements and Ideas for the node:
 - Adding  1366 × 768,  2560 × 1440  and  1536 × 864  resolutions.
 
 #
-🐍 Special Thanks to PyGame 🐍
+Special Thanks to PyGame
 Preview Image Monitor relies on the powerful Pygame library to handle cross-platform window creation, display management, and image rendering.
 We extend our sincere thanks to the Pygame developers and contributors for their invaluable work.
 https://github.com/pygame
 #
-📰 NEWS📰 
+NEWS 
 #
-🖥️🖥️Preview Image Monitor v2.0🖥️🖥️ is out!
+Preview Image Monitor v2.0 is out!
 
 Tools to facilitate look development, on-screen references, information and scopes among other improvements.
 
