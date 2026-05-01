@@ -1,4 +1,4 @@
-# <h1 align="center">Preview Image Monitor - Multimonitor Fullscreen!</h1>
+# <h1 align="center">Preview Image Monitor - Multimonitor Fullscreen</h1>
 
 The first full-screen and multi-monitor solution for ComfyUI. It enables real-time image preview on any monitor connected to your system.
 It displays your generated images in fullscreen with professional grade viewing controls including adjustable fit modes
