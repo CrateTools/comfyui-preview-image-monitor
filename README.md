@@ -1,10 +1,7 @@
 # <h1 align="center">Preview Image Monitor - Multimonitor Fullscreen</h1>
 
 The first full-screen and multi-monitor solution for ComfyUI. It enables real-time image preview on any monitor connected to your system.
-It displays your generated images in fullscreen with professional grade viewing controls including adjustable fit modes
-(fit, fill, 1:1, letterboxing, pillarboxing, etc.), exposure/gamma/saturation adjustments, color scopes and lookdev tools.
-Select one of up to six secondary monitors.
-The display renders as a background layer, ensuring all active windows remain visible and unobstructed.
+It displays your generated images in fullscreen
 
 #
 
