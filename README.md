@@ -1,12 +1,11 @@
+# <h1 align="center">Deprecated Node - Now lives on Preview Video Monitor</h1>
+
+
 # <h1 align="center">Preview Image Monitor - Multimonitor Fullscreen</h1>
 
 The first full-screen and multi-monitor solution for ComfyUI. It enables real-time image preview on any monitor connected to your system.
 It displays your generated images in fullscreen.
 
-#
-
-Note for users: This node will likely be moved to PreviewVideoMonitorPro as all features will also be available there.
-This will simplify the development and efforts and unify alll in one node. Will let you know in advance if this happens.
 #
 
 <img width="1650" height="515" alt="desk1" src="https://github.com/user-attachments/assets/7cf485b5-a9a0-44f7-822b-50ae4c66b0d5" />
