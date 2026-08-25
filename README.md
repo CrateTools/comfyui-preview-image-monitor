@@ -1,4 +1,4 @@
-<img width="489" height="490" alt="happy def" src="https://github.com/user-attachments/assets/c4a5f6b6-bae1-4a06-9fd3-1e1d20014e00" />
+DEPRECATED NODE - VISIT Preview Video Monitor repo
 
 # <h1 align="center">Preview Image Monitor - Multimonitor Fullscreen</h1>
 
