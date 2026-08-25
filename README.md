@@ -1,6 +1,6 @@
-DEPRECATED NODE - VISIT Preview Video Monitor repo
+# DEPRECATED NODE - VISIT Preview Video Monitor repo
 
-# <h1 align="center">Preview Image Monitor - Multimonitor Fullscreen</h1>
+Preview Image Monitor - Multimonitor Fullscreen
 
 The first full-screen and multi-monitor solution for ComfyUI. It enables real-time image preview on any monitor connected to your system.
 It displays your generated images in fullscreen.
