@@ -1,4 +1,4 @@
-# DEPRECATED NODE - VISIT Preview Video Monitor repo
+# DEPRECATED NODE, Visit > Preview Video Monitor repo
 
 Preview Image Monitor - Multimonitor Fullscreen
 
