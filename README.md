@@ -5,10 +5,6 @@
 The first full-screen and multi-monitor solution for ComfyUI. It enables real-time image preview on any monitor connected to your system.
 It displays your generated images in fullscreen.
 
-#
-
-<img width="1650" height="515" alt="desk1" src="https://github.com/user-attachments/assets/7cf485b5-a9a0-44f7-822b-50ae4c66b0d5" />
-
 <a href="https://www.youtube.com/watch?v=GyDteyO-0Bk" target="_blank">Watch the Preview Image Monitor v1.1 Interface Walkthrough</a>
 
 # 
